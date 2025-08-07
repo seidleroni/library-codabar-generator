@@ -1,6 +1,6 @@
 # .github/workflows/deploy.yml
 
-name: Deploy Hex Flex to GitHub Pages
+name: Deploy Codabar Barcode Generator to GitHub Pages
 
 
 on:
