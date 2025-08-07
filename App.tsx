@@ -8,7 +8,7 @@ function App() {
   return (
     <HashRouter>
       <Routes>
-        <Route path="/:barcodeValue?" element={<BarcodeGeneratorPage />} />
+        <Route path="/:barcodeValue?/:encodedName?" element={<BarcodeGeneratorPage />} />
       </Routes>
     </HashRouter>
   );
