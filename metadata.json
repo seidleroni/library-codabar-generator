@@ -1,0 +1,6 @@
+{
+  "name": "Codabar Barcode Generator",
+  "description": "A simple web application to generate and display Codabar barcodes from a numeric or alphanumeric input. Users can bookmark the generated barcode URLs for future use.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
